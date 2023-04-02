@@ -6,6 +6,7 @@ This project is designed to create a cover letter for your job application. Once
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 
 ## Installation
 
@@ -46,3 +47,7 @@ To prepare, input your default information.
 3. Once the txt file is opened in your default editor, check and revise manually.
 4. Press Enter on your terminal when ready.
 5. The final PDF file will open. Done!
+
+
+## License
+ https://creativecommons.org/licenses/by/4.0/
