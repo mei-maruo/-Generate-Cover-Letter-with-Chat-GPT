@@ -1,0 +1,11 @@
+EDUCATION
+Master's Degree in CS, Stanford University
+Bachelor's Degree in CS, Stanford University
+
+WORK EXPERIENCE
+Software Engineer, aaa Inc., - Developed xxx and yyy for zzz
+Data Scientist, bbb Inc., - Improved xxx and yyy for zzz
+
+SKILLS
+Computational Skills: Python, and C
+Language Skills: Fluent in English
